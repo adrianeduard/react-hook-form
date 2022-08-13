@@ -1,3 +1,17 @@
-h1, p {
+body,
+html {
+  background-color: #444;
+  color: white;
+}
+h1,
+p {
   font-family: Lato;
+}
+
+.err {
+  color: chocolate;
+}
+
+.row {
+  margin-bottom: 20px;
 }
